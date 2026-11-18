@@ -2,7 +2,7 @@
  "https://155api.com/api.php/provide/vod/?ac=list": true,
  "https://jkunzyapi.com/api.php/provide/vod/?ac=list": true,
  "https://lbapi9.com/api.php/provide/vod/?ac=list": true,
- "https://slapibf.com/api.php/provide/vod/?ac=list": true,
+ "https://slapibf.com/api.php/provide/vod/?ac=list": false,
  "https://api.ddapi.cc/api.php/provide/vod/?ac=list": true,
  "https://vnzyz.com/api.php/provide/vod/?ac=list": true,
  "https://apilsbzy1.com/api.php/provide/vod/?ac=list": true,
