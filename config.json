@@ -27,6 +27,14 @@
    "filterable": 1
   },
   {
+   "key": "senlinzy.com",
+   "name": "♥森林(直连)",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+   "searchable": 1,
+   "filterable": 1
+  },
+  {
    "key": "didizy.com",
    "name": "♥滴滴(直连)",
    "type": 1,
@@ -303,14 +311,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0
-  },
-  {
-   "key": "虎牙",
-   "name": "🐯虎牙采集",
-   "type": 1,
-   "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-   "searchable": 1,
-   "quickSearch": 1
   },
   {
    "key": "火狐",
