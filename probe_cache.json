@@ -17,7 +17,7 @@
  "https://apiyutu.com/api.php/provide/vod/at/xml/": true,
  "http://wmcj8.com/inc/sapi.php": true,
  "http://apilj.com/api.php/provide/vod/at/json/": true,
- "http://91md.me/api.php/provide/vod/": true,
+ "http://91md.me/api.php/provide/vod/": false,
  "https://www.pgxdy.com/api/xml.php": true,
  "http://dadiapi.com/api.php": true,
  "http://api.11bat.com/api.php/provide/vod/at/xml": true,
