@@ -31,7 +31,7 @@
  "https://shayuapi.com/api.php/provide/vod/": true,
  "https://www.afasu.com/api/xml.php": false,
  "https://lbapi9.com/api.php/provide/vod/": true,
- "https://api.apilyzy.com/api.php/provide/vod/": false,
+ "https://api.apilyzy.com/api.php/provide/vod/": true,
  "http://c.小胡.icu/api.php/provide/vod/": false,
  "https://suoniapi.com/api.php/provide/vod/?ac=list": true,
  "https://taopianapi.com/cjapi/mc/vod/json.html": true,
